@@ -1,0 +1,42 @@
+{
+  "bitwise": true,
+  "curly": false,
+  "eqeqeq": true,
+  "esversion": 6,
+  "forin": true,
+  "freeze": true,
+  "latedef": true,
+
+  "maxcomplexity": false,
+  "maxdepth": false,
+  "maxparams": 3,
+  "maxstatements": 6,
+
+  "noarg": false,
+  "nonbsp": true,
+  "nonew": true,
+  "notypeof": false,
+
+  "singleGroups": true,
+  "strict": "implied",
+
+  "undef": true,
+  "unused": true,
+
+  "varstmt": true,
+
+
+  "asi": true,
+  "boss": false,
+  "debug": false,
+  "evil": false,
+  "lastsemic": false,
+  "loopfunc": false,
+  "moz": false,
+  "plusplus": false,
+
+
+  "browser": true,
+  "jquery": true,
+  "node": true
+}
